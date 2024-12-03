@@ -101,7 +101,7 @@ function SideBar(props) {
           <TipRain/>
         </div>
 
-        <Chat messages={messages()} ws={ws()} emojis={emojis()}/>
+        <Chat messages={messages()} ws={ws()} emojis={emojis()}/>Artem
       </div>
 
       <style jsx>{`
