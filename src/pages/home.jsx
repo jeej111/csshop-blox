@@ -75,6 +75,7 @@ function Home(props) {
             <div class='home-container fadein'>
 
                 <div class='banners'>
+Artem
                     <RewardsBanner user={props?.user}/>
                     <RainBanner/>
                 </div>
